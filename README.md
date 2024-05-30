@@ -7,7 +7,7 @@ Materials from the seminar **"Improving Deep Learning by Exploiting Synthetic Im
 
 <div>
 <p align = "center">
-<img src="./imgs/logo.svg" alt="TINTO Logo" width="150">
+<img src="./img/logo.svg" alt="TINTO Logo" width="150">
 </p>
 </div>
 
@@ -120,7 +120,7 @@ Also, as no other parameters are indicated, you will choose the following parame
 
 <div>
 <p align = "center">
-<kbd><img src="./imgs/characteristic.png" alt="TINTO characteristic pixel" width="250"></kbd>
+<kbd><img src="./img/characteristic.png" alt="TINTO characteristic pixel" width="250"></kbd>
 </p>
 </div>
 
@@ -137,7 +137,7 @@ The images are created with the following considerations regarding the parameter
 
 <div>
 <p align = "center">
-<kbd><img src="./imgs/blurring.png" alt="TINTO blurring" width="250"></kbd>
+<kbd><img src="./img/blurring.png" alt="TINTO blurring" width="250"></kbd>
 </p>
 </div>
 
@@ -156,6 +156,6 @@ TINTOlib is available under the **[Apache License 2.0](https://github.com/oeg-up
 
 <div>
 <p align = "center">
-<kbd><img src="./imgs/logo-oeg.png" alt="Ontology Engineering Group" width="150"></kbd> <kbd><img src="./imgs/logo-upm.png" alt="Universidad Politécnica de Madrid" width="150"></kbd> <kbd><img src="./imgs/logo-uned-.jpg" alt="Universidad Nacional de Educación a Distancia" width="231"></kbd> <kbd><img src="./imgs/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="115"></kbd> 
+<kbd><img src="./img/logo-oeg.png" alt="Ontology Engineering Group" width="150"></kbd> <kbd><img src="./img/logo-upm.png" alt="Universidad Politécnica de Madrid" width="150"></kbd> <kbd><img src="./img/logo-uned-.jpg" alt="Universidad Nacional de Educación a Distancia" width="231"></kbd> <kbd><img src="./img/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="115"></kbd> 
 </p>
 </div>
